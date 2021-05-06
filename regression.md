@@ -1,11 +1,10 @@
 ---
-title: "**Multiple Linear Regression**"
-author: "_**Hande Çelebi**_"
-date: "_**06 05 2021**_"
+title: "Multiple Linear Regression"
+author: "Hande Çelebi"
+date: "06 05 2021"
 output: 
   html_document:
     keep_md: true
-    toc: true
 ---
 
 
