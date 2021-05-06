@@ -3,7 +3,8 @@ title: "**Multiple Linear Regression**"
 author: "_**Hande Çelebi**_"
 date: "_**06 05 2021**_"
 output: 
-  github_document:
+  html_document:
+    keep_md: true
     toc: true
 ---
 
