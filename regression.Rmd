@@ -1,11 +1,10 @@
 ---
-title: "**Multiple Linear Regression**"
-author: "_**Hande Çelebi**_"
-date: "_**06 05 2021**_"
+title: "Multiple Linear Regression"
+author: "Hande Çelebi"
+date: "06 05 2021"
 output: 
   html_document:
     keep_md: true
-    toc: true
 ---
 
 
@@ -31,6 +30,8 @@ library(reshape2)
 library(GGally)
 library(dplyr)
 library(kableExtra)
+library(rmarkdown)
+library(yaml)
 suc <- read_excel("suc.xlsx")
 options(scipen = 99)
 attach(suc)
