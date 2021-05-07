@@ -2,6 +2,10 @@
 # **Factors Affecting Crime - Case Study by Cities in Turkey**
 
 
+
+
+
+
 The aim of this study is to evaluate the factors affecting crime according to the provinces in Turkey. The variables to be used in the analysis are as follows: 
 
 * X1 : "Number of convicts entering the penal institution according to the person who committed the crime",
