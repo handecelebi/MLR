@@ -1,19 +1,5 @@
----
-title: "Multiple Linear Regression"
-author: "Hande Çelebi"
-date: "06 05 2021"
-output: 
-  html_document:
-    keep_md: true
----
 
-
-
-
-
-
-
-## **Factors Affecting Crime - Case Study by Cities in Turkey**
+# **Factors Affecting Crime - Case Study by Cities in Turkey**
 
 
 The aim of this study is to evaluate the factors affecting crime according to the provinces in Turkey. The variables to be used in the analysis are as follows: 
