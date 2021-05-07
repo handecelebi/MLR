@@ -1,5 +1,5 @@
 
-# **Factors Affecting Crime - Case Study for Cities in Turkey **
+# **Factors Affecting Crime - Case Study for Cities in Turkey**
 
 
 
